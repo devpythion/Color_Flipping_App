@@ -8,7 +8,7 @@ Math.floor();
 Math.random();
 array.length;
 
-I use to approach to create a hexdecimal number for color code.
+I use two approaches to create a hex value  for color code.
 1. One is through using array where we have bunch of colors and create a function to pick a random index
   of array and set it to the  background;
 2. Another one is through creating  an array having all numbers of Hexadecimal number system and creating
